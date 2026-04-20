@@ -23,7 +23,9 @@ Calendar of planned tasks:
 + compare the performance with other methods
 
 
-The implementation is availableas part of the [CATS solver](https://github.com/Comenius-Abduction-Team/CATS-Abduction-Solver).
+The implementation is available as part of the [CATS solver](https://github.com/Comenius-Abduction-Team/CATS-Abduction-Solver).
+
+PDF version of the thesis: 
 
 
 Literature:
