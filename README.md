@@ -20,12 +20,39 @@ Calendar of completed tasks:
 + implementing a more effective version of the algorithm + creating unit tests + testing - April 2026
 
 Detailed calendar of completed tasks:
-November 13-20
-+ Studying literature - description logics (syntax, semantics, reasoning)
++ November 13-20
+  - Studying literature - description logics (syntax, semantics, reasoning)
++ November 20-27
+  - Studying ontologies
+  - Getting familiar with Protege tool
++ November 27 - December 4
+  - Studying literature - abduction
++ December 4-11
+  - Studying MHS algorithm (for abduction)
++ December 11-18
+  - Studying variants of MHS algorithm (HST, RCT)
++ December 18- February 18
+  - Studying MARCO algorithm
+  - Getting familiar with CATS solver - running code on different inputs
++ February 18-25
+  - Writing pseudocode - MARCO for abduction
+  - Starting implementing MARCO algorithm in CATS solver
++ February 25 - March 11
+  - Implementing the first version of MARCO
+  - Incorporating the implementation into the CATS solver
++ March 11-18
+  - Debugging and testing the first version of MARCO
+  - Proposing and researching possible data structures for MARCO - e.g. bitmap
++ March 18-25
+   - Implementing filtering of non-minimal explanations to MARCO
+   - Testing on multiple smaller inputs
++ March 25
+   - Improving MARCO - removing the generation of permutations of the same subclass
+   - Implementing subset/superset checks
+ 
 
-November 20-27
-+ Studying ontologies
-+ Getting familiar with Protege tool
+  
+
 
 Calendar of planned tasks:
 + design and implement multiple version of the algorithm + testing - May, June 2026
