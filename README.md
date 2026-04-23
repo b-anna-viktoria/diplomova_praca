@@ -1,4 +1,7 @@
 # Implementation of an abduction algorithm based on MARCO in the CATS solver
++ Author: Bc. Anna Viktória Bothová
++ Supervisor: Mgr. Janka Boborová
++ Consultant: Mgr. Júlia Pukancová, PhD.
 
 Abduction is a type of reasoning that explains observed phenomena by identifying their possible causes (explanations) based on available background knowledge. Methods based on HS-trees belong to the most general approaches, enabling a systematic exploration of the explanation space and the step-by-step computation of all possible explanations. These methods require model computation, which is not a service commonly provided by reasoners. Therefore, we aim to explore an alternative approach inspired by the MARCO algorithm, which does not rely on models.
 
@@ -15,6 +18,14 @@ Calendar of completed tasks:
 + getting to know the CATS solver (structure, classes, workflow) - February 2026
 + implementing/debugging the first version of the new algorithm - March 2026
 + implementing a more effective version of the algorithm + creating unit tests + testing - April 2026
+
+Detailed calendar of completed tasks:
+November 13-20
++ Studying literature - description logics (syntax, semantics, reasoning)
+
+November 20-27
++ Studying ontologies
++ Getting familiar with Protege tool
 
 Calendar of planned tasks:
 + design and implement multiple version of the algorithm + testing - May, June 2026
