@@ -22,47 +22,49 @@ Abduction is a type of reasoning that explains observed phenomena by identifying
 + implementing a more effective version of the algorithm + creating unit tests + testing - April 2026
 
 ### Detailed calendar of completed tasks:
-+ November 13-20
++ **November 13-20**
   - Studying literature - description logics (syntax, semantics, reasoning)
-+ November 20-27
++ **November 20-27**
   - Studying ontologies
   - Getting familiar with Protege tool
-+ November 27 - December 4
++ **November 27 - December 4**
   - Studying literature - abduction
-+ December 4-11
++ **December 4-11**
   - Studying MHS algorithm (for abduction)
-+ December 11-18
++ **December 11-18**
   - Studying variants of MHS algorithm (HST, RCT)
-+ December 18- February 18
++ **December 18- February 18**
   - Studying MARCO algorithm
   - Getting familiar with CATS solver - running code on different inputs
-+ February 18-25
++ **February 18-25**
   - Writing pseudocode - MARCO for abduction
   - Starting implementing MARCO algorithm in CATS solver
-+ February 25 - March 11
++ **February 25 - March 11**
   - Implementing the first version of MARCO
   - Incorporating the implementation into the CATS solver
-+ March 11-18
++ **March 11-18**
   - Debugging and testing the first version of MARCO
   - Proposing and researching possible data structures for MARCO - e.g. bitmap
-+ March 18-25
++ **March 18-25**
    - Implementing filtering of non-minimal explanations to MARCO
    - Testing on multiple smaller inputs
-+ March 25 - April 1
++ **March 25 - April 1**
    - Improving MARCO - removing the generation of permutations of the same subclass
    - Implementing subset/superset checks
- + April 1-8
+ + **April 1-8**
      - Debugging subset checks
      - Adding MARCO switch to the solver
-+ April 8-22
++ **April 8-22**
   - Creating unit tests
   - Studying classes BitSet and BitInteger
   - Creating the template of the thesis in latex
-+ April 22-29
-   - ??
-+ April 29 - May 6
-    - ??
-+  May 6-13
++ **April 22-29**
+   - Creating a webpage for the Project seminar
+   - Updating the algorith, so it uses type BitSet
++ **April 29 - May 6**
+    - Creating a presentation for the Project seminar
+    - Finalizing the thesis template
++  **May 6-13**
    - ??
   
 ### Calendar of planned tasks:
@@ -82,4 +84,3 @@ Literature:
 3. Liffiton, M. H., et al., 2016. Fast, flexible MUS enumeration. In Constraints An Int. J., 21(2), pp. 223–250.
 4. Shchekotykhin, K. M., et al., 2015. MergeXplain: Fast computation of multiple conflicts for diagnosis. In IJCAI 2015, AAAI Press, pp. 3221–3228.
 
-//maybe add PDFs
