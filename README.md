@@ -78,7 +78,7 @@ Abduction is a type of reasoning that explains observed phenomena by identifying
 
 The implementation is available as part of the [CATS solver](https://github.com/Comenius-Abduction-Team/CATS-Abduction-Solver).
 
-PDF version of the thesis: 
+PDF version of the thesis: [master thesis] (master_thesis.pdf)
 
 Literature:
 1. Elsenbroich, C., et al., 2006. A case for abductive reasoning over ontologies. In OWLED. Vol. 216 of CEUR-WS
