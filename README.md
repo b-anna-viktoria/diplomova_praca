@@ -19,7 +19,7 @@ Abduction is a type of reasoning that explains observed phenomena by identifying
 + studying literature about abduction and tree-based abduction algorithms - December 2025 and January 2026
 + getting to know the CATS solver (structure, classes, workflow) - February 2026
 + implementing/debugging the first version of the new algorithm - March 2026
-+ implementing a more effective version of the algorithm + creating unit tests + testing - April 2026
++ implementing optimisations (blocking) of the algorithm and experimenting with alternative versions + creating unit tests + testing - April and May 2026
 
 ### Detailed calendar of completed tasks:
 + **November 13-20**
@@ -60,18 +60,20 @@ Abduction is a type of reasoning that explains observed phenomena by identifying
   - Creating the template of the thesis in latex
 + **April 22-29**
    - Creating a webpage for the Project seminar
-   - Updating the algorith, so it uses type BitSet
+   - Updating the algorithm, so it uses type BitSet
 + **April 29 - May 6**
     - Creating a presentation for the Project seminar
     - Finalizing the thesis template
+    - Implementing blocking and pruning in the algorithm
 +  **May 6-13**
-   - ??
+   - Finalizing the presentation
+   - Trying alternative orders of the subset enumeration
   
 ### Calendar of planned tasks:
-+ design and implement multiple version of the algorithm + testing - May, June 2026
-+ test the algorithm on multiple inputs
++ design and implement various versions of the algorithm + testing 
++ test the versions algorithm on multiple inputs
 + evaluate the performance of the algorithm
-+ compare the performance with other methods
++ compare the performance to other methods
 
 
 The implementation is available as part of the [CATS solver](https://github.com/Comenius-Abduction-Team/CATS-Abduction-Solver).
