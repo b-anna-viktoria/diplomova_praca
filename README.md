@@ -70,8 +70,8 @@ Abduction is a type of reasoning that explains observed phenomena by identifying
    - Trying alternative orders of the subset enumeration
   
 ### Calendar of planned tasks:
-+ design and implement various versions of the algorithm + testing 
-+ test the versions algorithm on multiple inputs
++ designing and implementing various versions of the algorithm 
++ testing the versions of the algorithm on multiple inputs
 + evaluate the performance of the algorithm
 + compare the performance to other methods
 
