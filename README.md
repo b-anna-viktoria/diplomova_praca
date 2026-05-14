@@ -80,6 +80,8 @@ The implementation is available as part of the [CATS solver](https://github.com/
 
 PDF version of the thesis: [master thesis](master_thesis.pdf)
 
+PDF version of the presentation: [presentation](prezentacia.pdf)
+
 Literature:
 1. Elsenbroich, C., et al., 2006. A case for abductive reasoning over ontologies. In OWLED. Vol. 216 of CEUR-WS
 2. Homola, M., et al., 2023. Merge, explain, iterate: A combination of MHS and MXP in an ABox abduction solver. In JELIA. Vol. 14281 of LNCS, Springer Nature
