@@ -76,7 +76,7 @@ Abduction is a type of reasoning that explains observed phenomena by identifying
 + compare the performance to other methods
 
 
-The implementation is available as part of the [CATS solver](https://github.com/Comenius-Abduction-Team/CATS-Abduction-Solver).
+The implementation is available as part of the [CATS solver](https://github.com/Comenius-Abduction-Team/CATS-Abduction-Solver/tree/marco).
 
 PDF version of the thesis: [master thesis](master_thesis.pdf)
 
