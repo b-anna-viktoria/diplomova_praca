@@ -67,7 +67,7 @@ Abduction is a type of reasoning that explains observed phenomena by identifying
     - Implementing blocking and pruning in the algorithm
 +  **May 6-13**
    - Finalizing the presentation
-   - Trying alternative orders of the subset enumeration
+   - Starting implementing an alternative order (biggest to smallest) of the subset enumeration
   
 ### Calendar of planned tasks:
 + designing and implementing various versions of the algorithm 
